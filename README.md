@@ -4,28 +4,30 @@
 
 - TR: Bu depo, bilgisayar mühendisliğinin ilk yılında yazdığım c kodlarının bir derlemesidir. Her commit, bir parça kod veya bir konu işleyecektir. dosyaların içinde ve dışında hangi dosyaların ne yaptığını işleyecektir.
 
+- EN: There may be extra libraries in the codes. Sorry for that, I'm not changing it because I don't want the commit queues to be broken. Thanks for your understanding. (it's all c code)
+
+- TR: Kodlarda fazladan kütüphaneler olabilir. bunun için kusura bakmayın değiştirmiyorum çünkü commit sıraları bozulsun istemiyorum. Anlayışınız için teşekkürler. (tamamı c kodudur)
+
 # Commit 1
 
-'''
-EN:
-recursive_greatest_common_divisor_ebob_obeb.cpp, recursive_consecutive_total.cpp -> These files handle early examples of recursive functions: greatest common divisor, sequential addition.
 
-'''
+- EN: recursive_greatest_common_divisor_ebob_obeb.cpp, recursive_consecutive_total.cpp -> These files handle early examples of recursive functions: greatest common divisor, sequential addition.
 
-'''
-TR:
-recursive_greatest_common_divisor_ebob_obeb.cpp, recursive_consecutive_total.cpp -> Bu dosyalar recursive fonksiyonların ilk örnekleri olan ebob ve sıralı toplamayı işlemektedir.
 
-'''
+- TR: recursive_greatest_common_divisor_ebob_obeb.cpp, recursive_consecutive_total.cpp -> Bu dosyalar recursive fonksiyonların ilk örnekleri olan ebob ve sıralı toplamayı işlemektedir.
+
+
 
 # Commit 2
 
-'''
-EN: This commit contains code about file operations. -> prime_number_file_operations.cpp, write_to_file.cpp
 
-'''
+- EN: This commit contains code about file operations. -> prime_number_file_operations.cpp, write_to_file.cpp
 
-'''
-TR: bu commit dosya işlemleri konusunda kodlar içerir. -> prime_number_file_operations.cpp, write_to_file.cpp
+- TR: bu commit dosya işlemleri konusunda kodlar içerir. -> prime_number_file_operations.cpp, write_to_file.cpp
 
-'''
+
+# Commit 3
+
+- EN: left_rotated_shift.cpp, ikiliyaz.cpp, bit_operations.cpp -> bit operations were processed in these codes.
+
+- TR: left_rotated_shift.cpp, ikiliyaz.cpp, bit_operations.cpp -> bu kodlarda bitsel işlemler işlendi.

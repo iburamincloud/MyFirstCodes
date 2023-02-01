@@ -8,6 +8,8 @@
 
 - TR: Kodlarda fazladan kütüphaneler olabilir. bunun için kusura bakmayın değiştirmiyorum çünkü commit sıraları bozulsun istemiyorum. Anlayışınız için teşekkürler. (tamamı c kodudur)
 
+- Variable names are  Turkish. Because I was in my rookie years. it's sad :(
+
 # Commit 1
 
 
@@ -31,3 +33,9 @@
 - EN: left_rotated_shift.cpp, ikiliyaz.cpp, bit_operations.cpp -> bit operations were processed in these codes.
 
 - TR: left_rotated_shift.cpp, ikiliyaz.cpp, bit_operations.cpp -> bu kodlarda bitsel işlemler işlendi.
+
+# Commit 4 
+
+- EN: linked list.cpp, linked_list_stack_and_queue.cpp, stack_and_queue.cpp -> In these files, one-way linked lists stack and queue operations are processed, respectively.
+
+- TR: linked list.cpp, linked_list_stack_and_queue.cpp, stack_and_queue.cpp -> Bu dosyalarda sırasıyla tek yönlü bağlı listeler stack & queue işlemleri işlenmiştir.

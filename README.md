@@ -39,3 +39,9 @@
 - EN: linked list.cpp, linked_list_stack_and_queue.cpp, stack_and_queue.cpp -> In these files, one-way linked lists stack and queue operations are processed, respectively.
 
 - TR: linked list.cpp, linked_list_stack_and_queue.cpp, stack_and_queue.cpp -> Bu dosyalarda sırasıyla tek yönlü bağlı listeler stack & queue işlemleri işlenmiştir.
+
+# Commit 5
+
+- EN: linked_list_delete_node.cpp, linked_list_sorted_list.cpp ->  In these files, sorted linked list and delete method are processed.
+
+- EN: linked_list_delete_node.cpp, linked_list_sorted_list.cpp -> Bu kodlarda sıralı listeler ve silme fonksiyonu işlenmiştir.

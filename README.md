@@ -45,3 +45,9 @@
 - EN: linked_list_delete_node.cpp, linked_list_sorted_list.cpp ->  In these files, sorted linked list and delete method are processed.
 
 - EN: linked_list_delete_node.cpp, linked_list_sorted_list.cpp -> Bu kodlarda sıralı listeler ve silme fonksiyonu işlenmiştir.
+
+# Commit 6
+
+- EN: pointer_arithmetic.cpp, dynamic_array_binary_operation_and_file_operations.cpp -> dynamic arrays and pointers are handled in these files.
+
+- TR: pointer_arithmetic.cpp, dynamic_array_binary_operation_and_file_operations.cpp -> bu dosyalarda dinamik dizi ve pointer kavramları üzerinde durulmuştur.

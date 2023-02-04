@@ -51,3 +51,9 @@
 - EN: pointer_arithmetic.cpp, dynamic_array_binary_operation_and_file_operations.cpp -> dynamic arrays and pointers are handled in these files.
 
 - TR: pointer_arithmetic.cpp, dynamic_array_binary_operation_and_file_operations.cpp -> bu dosyalarda dinamik dizi ve pointer kavramları üzerinde durulmuştur.
+
+# Commit 7
+
+- EN: bubblesort_and_selectionsort_with_linked_list.cpp -> There are has bubble  sort algorithm and selection sort algorithm with linked list codes in this file.
+
+- TR: bubblesort_and_selectionsort_with_linked_list.cpp -> Bu dosyada bubble sortalgoritması ve bağlantılı liste kodlarıyla  selection sort algoritması vardır.

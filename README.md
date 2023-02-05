@@ -48,12 +48,18 @@
 
 # Commit 6
 
-- EN: pointer_arithmetic.cpp, dynamic_array_binary_operation_and_file_operations.cpp -> dynamic arrays and pointers are handled in these files.
+- EN: pointer_arithmetic.cpp, dynamic_array_binary_operation_and_file_operations.cpp -> Dynamic arrays and pointers are handled in these files.
 
-- TR: pointer_arithmetic.cpp, dynamic_array_binary_operation_and_file_operations.cpp -> bu dosyalarda dinamik dizi ve pointer kavramları üzerinde durulmuştur.
+- TR: pointer_arithmetic.cpp, dynamic_array_binary_operation_and_file_operations.cpp -> Bu dosyalarda dinamik dizi ve pointer kavramları üzerinde durulmuştur.
 
 # Commit 7
 
 - EN: bubblesort_and_selectionsort_with_linked_list.cpp -> There are has bubble  sort algorithm and selection sort algorithm with linked list codes in this file.
 
 - TR: bubblesort_and_selectionsort_with_linked_list.cpp -> Bu dosyada bubble sortalgoritması ve bağlantılı liste kodlarıyla  selection sort algoritması vardır.
+
+# Commit 8 
+
+- EN: asal mi.cpp, average_of_prime_number.cpp -> These files has prime number finding codes.
+
+- TR: asal mi.cpp, average_of_prime_number.cpp ->  Bu dosyalarda asal sayı bulma kodları vardır.

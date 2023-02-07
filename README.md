@@ -63,3 +63,9 @@
 - EN: asal mi.cpp, average_of_prime_number.cpp -> These files has prime number finding codes.
 
 - TR: asal mi.cpp, average_of_prime_number.cpp ->  Bu dosyalarda asal sayı bulma kodları vardır.
+
+# Commit 9
+
+- EN: is_it_prime?.cpp, factorial_and_combination.cpp, sum_of_number_values.cpp -> these files contain code that finds prime numbers and code that calculates factorial & combination, respectively. + sum of numbers value
+
+- TR: is_it_prime?.cpp, factorial_and_combination.cpp, sum_of_number_values.cpp  -> Bu dosyalar sırasıyla asal sayı bulan kodu ve faktöriyel & kombinasyonhesaplayan kodu içerir.

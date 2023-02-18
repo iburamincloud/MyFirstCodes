@@ -68,4 +68,16 @@
 
 - EN: is_it_prime?.cpp, factorial_and_combination.cpp, sum_of_number_values.cpp -> these files contain code that finds prime numbers and code that calculates factorial & combination, respectively. + sum of numbers value
 
-- TR: is_it_prime?.cpp, factorial_and_combination.cpp, sum_of_number_values.cpp  -> Bu dosyalar sırasıyla asal sayı bulan kodu ve faktöriyel & kombinasyonhesaplayan kodu içerir.
+- TR: is_it_prime?.cpp, factorial_and_combination.cpp, sum_of_number_values.cpp  -> Bu dosyalar sırasıyla asal sayı bulan 
+kodu ve faktöriyel & kombinasyonhesaplayan kodu içerir.
+
+# Commit 10
+
+- EN: shape_algorithms...._.cpp -> There are shape algorithms in these file.
+- TR: shape_algorithms...._.cpp -> Bu dosyalar bazı şekilleri karakterler kullanarak konsola basan algoritmaları içerir.
+
+
+
+
+
+

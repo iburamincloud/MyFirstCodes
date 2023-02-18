@@ -74,7 +74,14 @@ kodu ve faktöriyel & kombinasyonhesaplayan kodu içerir.
 # Commit 10
 
 - EN: shape_algorithms...._.cpp -> There are shape algorithms in these file.
+
 - TR: shape_algorithms...._.cpp -> Bu dosyalar bazı şekilleri karakterler kullanarak konsola basan algoritmaları içerir.
+
+# Commit 11 
+
+- EN: deficiencies have been corrected.
+
+- TR: eksikler giderildi.
 
 
 

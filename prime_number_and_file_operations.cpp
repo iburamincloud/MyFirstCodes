@@ -17,7 +17,7 @@ int main()
 		else{
 				while(!feof(dosya)){
 					fscanf(dosya,"%d",&tutucu);
-					//asallõk kontrolŸ (prime number control)-------
+					//asallï¿½k kontrolï¿½ (prime number control)-------
 					for(int i=1;i<=tutucu;i++){
 						if(tutucu%i==0){
 							sayac++;
@@ -39,3 +39,4 @@ int main()
 	
 	return 0;
 }
+//

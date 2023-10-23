@@ -28,3 +28,4 @@ int main(){
 		printf("sayi asal degildir.");
 	}
 }
+//

@@ -20,3 +20,4 @@ int main(){
 	scanf("%d",&r);
 	printf("cevap: %d",kombinasyon(n,r));
 } 
+//

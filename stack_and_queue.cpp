@@ -218,3 +218,4 @@ del2(int value){ //delete the node.
 	freeee();
 	return 0;
 }
+//

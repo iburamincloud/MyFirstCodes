@@ -56,3 +56,4 @@ int main(){
 	fclose(dosya2);
 	return 0;
 }
+//

@@ -29,3 +29,4 @@ sayidegeriToplam(sayi);
 return 0;
 
 }
+//
